@@ -1,5 +1,5 @@
 Team Members:
-  Bulea Teodora
+  Bulea Teodora,
   Vornicu Floris-Diana
 
 Resources:
